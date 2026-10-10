@@ -1,0 +1,8 @@
+**Situation**
+Our total cleaned revenue stands at INR 97358.3, a slight decrease from the raw total of INR 99860.2 due to a duplicate reconciliation delta of INR 2501.9. March 2026 was our true peak month, generating INR 20318.9 in revenue.
+
+**Complication**
+Return rates vary significantly by payment method: CARD at 14.7%, UPI at 18.9%, and COD at 44.4%. The highest risk segment is COD orders from Tier 2 cities, exhibiting a concerning 54.5% return rate. Furthermore, January 2026's apparent revenue of INR 29582.1 was inflated by an outlier, with the corrected revenue being INR 11637.1.
+
+**Resolution**
+Operations must prioritize strategies to mitigate COD returns, especially in Tier 2 cities, to reduce the 54.5% return rate in this segment. Finance should note the true peak in March 2026 and the corrected January 2026 revenue for accurate forecasting and resource allocation. Addressing the INR 2501.9 reconciliation delta is also crucial for data integrity.
